@@ -13,7 +13,8 @@ Google MobileNet
 : Teachable Machine
 
 **이미지 구별 학습**
-![[스크린샷 2024-03-05 151947.png]]
+<img width="1095" alt="picture" src="https://github.com/to4286/DigitalPlanner/assets/161290811/eab7d11e-53fd-4dd0-9a84-0bd37509bbff">
+
 
 **인공지능 머신러닝 모델**
 ![[model.tflite]]
